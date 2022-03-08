@@ -1,4 +1,4 @@
-# material-ui-webpage
+# Zomato Clone
 A simple Zomato Clone using React
 
 #preview
